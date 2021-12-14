@@ -1,3 +1,3 @@
 # Emperical-Study-on-Algorithmic-Stablecoins
 
-See [paepr](paper.pdf).
+See [paper](paper.pdf).
